@@ -1,4 +1,3 @@
-#lang scheme
 ;; Square root function with lexical scoping.
 
 (define (sqrt x)

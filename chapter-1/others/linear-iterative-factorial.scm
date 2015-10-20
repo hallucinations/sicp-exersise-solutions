@@ -1,5 +1,3 @@
-#lang scheme
-
 (define (factorial n)
   (fact-iter 1 1 n))
 

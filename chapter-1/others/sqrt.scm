@@ -1,4 +1,4 @@
-#lang scheme
+;; Square root using Newton's algorithm
 
 (define (new-if predicate 
                 then-clause 
